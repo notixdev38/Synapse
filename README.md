@@ -105,7 +105,3 @@ Beispiel:
 
 
 
-
-
-<img width="707" height="546" alt="Screenshot 2026-02-09 130703" src="https://github.com/user-attachments/assets/8f1e2178-dbca-44a3-be31-edf355adadc7" />
-
