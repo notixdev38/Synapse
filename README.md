@@ -98,12 +98,14 @@ Beispiel:
   "mode": "production",
   "logging": true,
   "retry_limit": 5
-}
+
 
 
 ### 3. Anwendung starten
 
 
-<img width="707" height="546" alt="image" src="https://github.com/user-attachments/assets/af142788-f3fe-4b38-9da0-cee5850b57b9" />
 
+
+
+<img width="707" height="546" alt="Screenshot 2026-02-09 130703" src="https://github.com/user-attachments/assets/8f1e2178-dbca-44a3-be31-edf355adadc7" />
 
