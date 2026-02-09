@@ -103,6 +103,4 @@ Beispiel:
 
 ### 3. Anwendung starten
 
-
-![image alt](https://github.com/notixdev38/Synapse/blob/5f327a3c7376acf8537bde56b57c0316578e97e9/Bild_2026-02-09_131048484.png)
-
+![Image Alt](https://github.com/notixdev38/Synapse/blob/5f327a3c7376acf8537bde56b57c0316578e97e9/Bild_2026-02-09_131048484.png).
